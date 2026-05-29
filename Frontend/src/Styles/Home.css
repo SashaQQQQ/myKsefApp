@@ -1,0 +1,40 @@
+.homePage {
+  width: 40%;
+  height: auto;
+  padding: 30px;
+  border: 1px solid black;
+  border-radius: 2vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: column;
+  gap: 30px;
+}
+.homePage div {
+  display: flex;
+  gap: 15px;
+}
+.homePage input {
+  width: 300px;
+  height: auto;
+  padding: 10px;
+  padding-left: 15px;
+  outline: none;
+  border: none;
+  background-color: rgb(227, 227, 227);
+  border-radius: 2vw;
+  font-size: 18px;
+}
+.homePage button {
+  width: auto;
+  height: auto;
+  padding: 15px;
+  border-radius: 2vw;
+  border: none;
+  background-color: rgb(227, 227, 227);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.homePage button:hover {
+  background-color: rgb(215, 215, 215);
+}
