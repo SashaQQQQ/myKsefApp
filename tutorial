@@ -1,6 +1,6 @@
 1. Otworzyć folder w np VS Code.
 2. Utrworzyć dwa terminaly.
-3. W pierwszym 'cd Frontend', 'npm run dev'
+3. W pierwszym 'cd Frontend', 'npm install', 'npm run dev'
 4. W drugim 'cd Backend', 'node server.js'
 5. Otworzyć 'http://localhost:5173/' w przeglądarce
 6. Wkleić potrzebną fakturę sprzedażową i wcisnąć "submit"
